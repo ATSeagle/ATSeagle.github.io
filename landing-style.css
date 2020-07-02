@@ -1,0 +1,74 @@
+/* YOUR CODE HERE */
+.navbar {
+    background-color: white;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 40px;
+    color: #154360;
+}
+
+.navbar-nav li a {
+    color: #212121;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+body {
+    background: #CCD1D1;
+}
+
+#landing-summary-header {
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.box {
+    background-color: white;
+    margin-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+
+.box p {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#summary-img {
+    height: 230px;
+    width: 250px;
+    float: left;
+    margin-left: 40px;
+    margin-right: 10px;
+}
+
+.vis-imgs img {
+    height: 150px;
+    width: 150px;
+    margin-left: 5px; */
+    margin-right: 10px;
+    /* margin-top: 100px; */
+}
+
+#vis-header {
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    background-color: white;
+}
+
+#landing-written {
+    line-height: 30px;
+}
+
+
